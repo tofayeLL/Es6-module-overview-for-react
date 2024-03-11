@@ -1,0 +1,27 @@
+[
+    {
+        "id": "AW7",
+        "name": "Apple Watch Series 7",
+        "price": 399.99
+    },
+    {
+        "id": "GW4",
+        "name": "Samsung Galaxy Watch 4",
+        "price": 349.99
+    },
+    {
+        "id": "FS",
+        "name": "Fitbit Sense",
+        "price": 299.95
+    },
+    {
+        "id": "GV2",
+        "name": "Garmin Venu 2",
+        "price": 399.99
+    },
+    {
+        "id": "AG3",
+        "name": "Amazfit GTR 3",
+        "price": 249.99
+    }
+]
